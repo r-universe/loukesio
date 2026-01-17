@@ -5,3 +5,9 @@
 [submodule "blastar"]
 	path = blastar
 	url = https://github.com/loukesio/blastar
+[submodule "ggvolc"]
+	path = ggvolc
+	url = https://github.com/loukesio/ggvolc
+[submodule "ltc"]
+	path = ltc
+	url = https://github.com/loukesio/ltc-color-palettes
